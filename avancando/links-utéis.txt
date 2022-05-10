@@ -1,0 +1,4 @@
+
+
+<h1> Tabela de Comparação de tipos do PHP </h1>
+https://www.php.net/manual/pt_BR/types.comparisons.php
