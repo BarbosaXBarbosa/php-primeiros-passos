@@ -8,3 +8,6 @@ https://www.php.net/manual/pt_BR/language.types.array.php
 
 <h1> Erros </h1>
 https://www.php.net/manual/en/errorfunc.constants.php
+
+<h1> Trabalhando com arrays em PHP <h1>
+https://www.alura.com.br/artigos/trabalhando-com-arrays-em-php
